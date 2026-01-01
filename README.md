@@ -30,7 +30,7 @@ Passionate about React, Node.js, and clean UI/UX design..</h3>
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib-hossain32&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddiqurRahmanBD&theme=github_dark)
   
  </div>
 
