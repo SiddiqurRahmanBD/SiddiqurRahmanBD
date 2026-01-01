@@ -1,7 +1,13 @@
-## Hi there 👋
+
 <p align="center">
 <img src="https://i.ibb.co.com/nNx8XZ8k/linkedin.jpg" alt="" width=""/>
 </p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!+👋;This+is+Siddiqur+Rahman....;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 <!--
 **SiddiqurRahmanBD/SiddiqurRahmanBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
