@@ -8,6 +8,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!+👋;This+is+Siddiqur+Rahman....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
+
+
+<h1 align="center">Hi, I'm Siddiqur Rahman</h1>
+<h3 align="center">I'm a Frontend and MERN Stack Developer. I build responsive, user-friendly web applications using modern JavaScript technologies.  
+Passionate about React, Node.js, and clean UI/UX design..</h3>
+
 <!--
 **SiddiqurRahmanBD/SiddiqurRahmanBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
