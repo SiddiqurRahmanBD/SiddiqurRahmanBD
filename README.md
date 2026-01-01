@@ -15,7 +15,7 @@
 Passionate about React, Node.js, and clean UI/UX design..</h3>
 
 #### 💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,nextjs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,nextjs,figma)](https://skillicons.dev)
 
 #### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)](https://skillicons.dev)
@@ -26,8 +26,6 @@ Passionate about React, Node.js, and clean UI/UX design..</h3>
 #### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-#### 🎨 Design & Graphics Basic
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd)](https://skillicons.dev)
 #### 💻 Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,nextjs,figma)](https://skillicons.dev)
 
@@ -40,8 +38,6 @@ Passionate about React, Node.js, and clean UI/UX design..</h3>
 #### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-#### 🎨 Design & Graphics Basic
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd)](https://skillicons.dev)
 
 
 <!--
