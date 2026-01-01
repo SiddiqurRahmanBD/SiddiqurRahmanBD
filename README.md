@@ -27,7 +27,6 @@ Passionate about React, Node.js, and clean UI/UX design..</h3>
 #### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddiquRahmanBD&theme=black-ice)](https://git.io/streak-stats)
 
  ### 💳 Github Profile Summary Card
  
