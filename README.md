@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!+👋;This+is+Siddiqur+Rahman....;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!;This+is+Siddiqur+Rahman....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -26,17 +26,13 @@ Passionate about React, Node.js, and clean UI/UX design..</h3>
 #### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-#### 💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,nextjs,figma)](https://skillicons.dev)
-
-#### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)](https://skillicons.dev)
-
-#### 🚀 Deployment Platform
-[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
-
-#### 🛠️ Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib-hossain32&theme=github_dark)
+  
+ </div>
 
 
 
