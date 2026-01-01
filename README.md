@@ -27,6 +27,21 @@ Passionate about React, Node.js, and clean UI/UX design..</h3>
 #### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
+### ⚙️ &nbsp;GitHub Analytics
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SiddiqurRahmanBD">
+        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=SiddiqurRahmanBD&show_icons=true&theme=gotham" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SiddiqurRahmanBD">
+        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=SiddiqurRahmanBD&theme=gotham" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
  ### 💳 Github Profile Summary Card
  
