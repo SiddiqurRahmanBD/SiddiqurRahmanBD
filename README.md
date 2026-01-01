@@ -14,6 +14,36 @@
 <h3 align="center">I'm a Frontend and MERN Stack Developer. I build responsive, user-friendly web applications using modern JavaScript technologies.  
 Passionate about React, Node.js, and clean UI/UX design..</h3>
 
+#### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,nextjs,figma)](https://skillicons.dev)
+
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)](https://skillicons.dev)
+
+#### 🚀 Deployment Platform
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
+
+#### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+#### 🎨 Design & Graphics Basic
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd)](https://skillicons.dev)
+#### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,nextjs,figma)](https://skillicons.dev)
+
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)](https://skillicons.dev)
+
+#### 🚀 Deployment Platform
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
+
+#### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+#### 🎨 Design & Graphics Basic
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd)](https://skillicons.dev)
+
+
 <!--
 **SiddiqurRahmanBD/SiddiqurRahmanBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
